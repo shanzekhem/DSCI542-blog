@@ -1,0 +1,59 @@
+---
+title: "Stuck in the Bubble: Algorithms and the Politics of What You See"
+author: "Shanze Khemani"
+page-layout: full
+title-block-banner: true
+bibliography: references.bib
+---
+
+![](images/algos3.png){fig-align="center"}
+
+Ever notice how your social media feed seems to know exactly what’s on your mind? The posts you agree with, the opinions that match your own, content that seems too specific to you, it’s not just a coincidence. As social media becomes a bigger part of everyday life and political divisions continue to grow, it’s important to take a step back and understand how social media influences what we see and believe.
+
+### **So What is an Algorithm?**
+
+Before things get too technical, let’s break down what an algorithm even is. A social media algorithm is a set of rules that decides which posts appear in your feed and in what order [@emplifi2025]. These decisions are based on your activity, such as what you like, share, comment on, or how long you spend looking at certain content. For example, if someone regularly likes posts about dogs, the platform is likely to show them more dog related content.
+
+![](images/algos2.jpg){fig-align="center" width="389"}
+
+Sounds kind of nice right? We don’t have to put in the extra effort to search for things we are interested in, the content just kind of shows up. If you spend all day liking pictures of huskies on Instagram, the algorithm will show you what you like - more dogs! On the surface it might seem great, a custom-made content feed just for you. But if all you see is 100% dogs, you might forget that cats or even birds or other animals even exist. You're not really choosing what you want to see anymore, the app is choosing for you.
+
+### **The “Filter Bubble” Problem**
+
+The downside of personalized feeds is that they don’t show us much we disagree with. Instead, we’re surrounded by content that reinforces our existing beliefs. This can lead to confirmation bias, which means we’re more likely to believe information that aligns with our current opinions and ignore information that challenges them. For instance, if a user only sees political posts that align with their views, they may start thinking, "Well, everyone on my feed agrees with me, so I must be right!" This makes us more confident in our own views and assume opposing views are uncommon or wrong. It’s not just that we’re avoiding different opinions, it’s that we’ve stopped seeing them altogether and can make us believe misinformation because it "feels" true. 
+
+![](images/filters.jpg){fig-align="center" width="310"}
+
+This leads us into what internet activist Eli Pariser called a **"filter bubble"** [@putri2024_echochambers]. When your feed is curated to match your existing beliefs, you stop seeing different viewpoints, which can make political divides even deeper. As we talked about before, social media algorithms personalize content based on each user’s behavior (likes, clicks, browsing history), which can filter out information that contradicts a user’s preferences or beliefs. Within filter bubbles, users may be less likely to engage critically with different viewpoints, potentially strengthening preexisting opinions and deepening polarization. 
+
+### **What the Research Says**
+
+This isn’t just a theory. A study published in November 2025 and co-led by Northeastern University researcher Chenyan Jia looked at how even small changes in how posts showed up in users’ feed could influence users’ political attitudes [@piccardi2024_polarization]. In other words, tiny adjustments to your feed can have a big impact on how you think.
+
+The study involved reranking people’s social media feeds, specifically X (formally Twitter), during the 2024 U.S. presidential election. The researchers used an LLM to rerank posts that were antidemocratic in nature and that displayed partisan animosity. People were randomly assigned to either reduced exposure to these angrier posts or increased exposure, meaning these posts would either show up first or towards the end. Their attitudes were measured based on how they felt about the opposing party. In-feed surveys showed reduced exposure decreased negative emotions (anger, sadness) and increased them when exposure to such posts was increased. 
+
+**The result?** When the "angry" posts were front and center, people reported feeling significantly more sadness and rage toward the "other side." When those posts were hidden, the tension was gone. The study found that algorithms can amplify or even suppress certain content and it can influence people’s attitudes toward opposing political groups. 
+
+### **Why This Actually Matters**
+
+Filtered content environments constrain exposure to varied ideas, thereby weakening critical thinking and intellectual exploration. Users lacking access to different viewpoints may struggle to evaluate or challenge their own beliefs. When personalization prioritizes “popular” or “engaging” content, it can marginalize complex, independent, or intellectually rich content forms like proper journalism. 
+
+It sounds like a bit of a trap: the algorithm cares about what’s viral, not what’s true. That means real investigative journalism often loses out to whatever is trendiest at the moment.
+
+### **So What Can We Do?**
+
+![](images/digital-literacy.jpg){fig-align="center" width="500"}
+
+No, the answer isn’t to delete all your social media and move off the grid. The real takeaway is awareness. Knowing that algorithms shape what we see makes it easier to question the content that pops up on our screens. While data science can help create more transparent and balanced algorithms, users play a role too. We can be more intentional about what we engage with. Our likes, shares, and clicks help train these algorithms, so exploring different viewpoints and following a variety of voices can actually change what shows up in our feeds. 
+
+Once you realize the algorithm is just trying to guess what you want, you can start "training" it back.
+
+-   **Be intentional:** Click on things that you would normally scroll past. 
+
+-   **Follow a variety of voices:** Intentionally seek out different perspectives.
+
+-   **Pause before you react:** Ask yourself, "am I seeing this because it’s true, or because the algorithm knows it will make me angry?"
+
+The algorithm might build the filter bubble, but you are the one who decides whether or not to pop it.
+
+## References

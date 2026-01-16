@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DSCI 542: Blog Post"
+format:
+  html:
+    theme:
+      - zephyr
+      - brand
+    css: styles.css
+
+editor: visual
+
