@@ -8,7 +8,7 @@ bibliography: references.bib
 
 ![](images/algos3.png){fig-align="center"}
 
-Ever notice how your social media feed seems to know exactly what’s on your mind? The posts you agree with, the opinions that match your own, content that seems too specific to you, it’s not just a coincidence. As social media becomes a bigger part of everyday life and political divisions continue to grow, it’s important to take a step back and understand how social media influences what we see and believe.
+Ever notice how your social media feed seems to know exactly what’s on your mind? The posts you agree with, opinions that match your own, content that just seems too specific to you, it may not be just a coincidence. As social media becomes a bigger part of everyday life and political divisions continue to grow, it’s important to take a step back and understand how social media influences what we see and believe.
 
 ### **So What is an Algorithm?**
 
@@ -16,11 +16,11 @@ Before things get too technical, let’s break down what an algorithm even is. A
 
 ![](images/algos2.jpg){fig-align="center" width="389"}
 
-Sounds kind of nice right? We don’t have to put in the extra effort to search for things we are interested in, the content just kind of shows up. If you spend all day liking pictures of huskies on Instagram, the algorithm will show you what you like - more dogs! On the surface it might seem great, a custom-made content feed just for you. But if all you see is 100% dogs, you might forget that cats or even birds or other animals even exist. You're not really choosing what you want to see anymore, the app is choosing for you.
+Sounds kind of nice right? We don’t have to put in the extra effort to search for things we are interested in, the content just kind of shows up. If you spend all day liking pictures of huskies on Instagram, the algorithm will show you what you like, more dogs! On the surface it might seem great, a custom-made content feed just for you. But if all you see is 100% dogs, you might forget that cats or birds or other animals even exist. You're not really choosing what you want to see anymore, the app is choosing for you.
 
 ### **The “Filter Bubble” Problem**
 
-The downside of personalized feeds is that they don’t show us much we disagree with. Instead, we’re surrounded by content that reinforces our existing beliefs. This can lead to confirmation bias, which means we’re more likely to believe information that aligns with our current opinions and ignore information that challenges them. For instance, if a user only sees political posts that align with their views, they may start thinking, "Well, everyone on my feed agrees with me, so I must be right!" This makes us more confident in our own views and assume opposing views are uncommon or wrong. It’s not just that we’re avoiding different opinions, it’s that we’ve stopped seeing them altogether and can make us believe misinformation because it "feels" true. 
+The downside of personalized feeds is that they do not show us much we disagree with. Instead, we are surrounded by content that reinforces our existing beliefs. This can lead to confirmation bias, which means we are more likely to believe information that aligns with our current opinions and ignore information that challenges them. For instance, if a user only sees political posts that align with their views, they may start thinking, "well, everyone on my feed agrees with me, so I must be right." This makes us more confident in our own views and assume opposing views are uncommon or wrong. It’s not just that we are avoiding different opinions, it’s that we’ve stopped seeing them altogether which can make us believe misinformation because it "feels" true. 
 
 ![](images/filters.jpg){fig-align="center" width="310"}
 
@@ -30,15 +30,13 @@ This leads us into what internet activist Eli Pariser called a **"filter bubble"
 
 This isn’t just a theory. A study published in November 2025 and co-led by Northeastern University researcher Chenyan Jia looked at how even small changes in how posts showed up in users’ feed could influence users’ political attitudes [@piccardi2024_polarization]. In other words, tiny adjustments to your feed can have a big impact on how you think.
 
-The study involved reranking people’s social media feeds, specifically X (formally Twitter), during the 2024 U.S. presidential election. The researchers used an LLM to rerank posts that were antidemocratic in nature and that displayed partisan animosity. People were randomly assigned to either reduced exposure to these angrier posts or increased exposure, meaning these posts would either show up first or towards the end. Their attitudes were measured based on how they felt about the opposing party. In-feed surveys showed reduced exposure decreased negative emotions (anger, sadness) and increased them when exposure to such posts was increased. 
+The study involved re-ranking people’s social media feeds, specifically X (formally Twitter), during the 2024 U.S. presidential election. The researchers used an LLM to re-rank posts that were antidemocratic in nature and that displayed partisan animosity. People were randomly assigned to either reduced exposure to these posts or increased exposure, meaning these posts would either show up first or toward the end of their feed. Their attitudes were measured based on how they felt about the opposing party. In-feed surveys showed reduced exposure decreased negative emotions (anger, sadness) and increased them when exposure to such posts was increased. 
 
 **The result?** When the "angry" posts were front and center, people reported feeling significantly more sadness and rage toward the "other side." When those posts were hidden, the tension was gone. The study found that algorithms can amplify or even suppress certain content and it can influence people’s attitudes toward opposing political groups. 
 
 ### **Why This Actually Matters**
 
-Filtered content environments constrain exposure to varied ideas, thereby weakening critical thinking and intellectual exploration. Users lacking access to different viewpoints may struggle to evaluate or challenge their own beliefs. When personalization prioritizes “popular” or “engaging” content, it can marginalize complex, independent, or intellectually rich content forms like proper journalism. 
-
-It sounds like a bit of a trap: the algorithm cares about what’s viral, not what’s true. That means real investigative journalism often loses out to whatever is trendiest at the moment.
+Filtered content environments reduce exposure to different ideas, which can weaken critical thinking and intellectual exploration. Users lacking access to different viewpoints may struggle to evaluate or challenge their own beliefs. When algorithms prioritize “popular” or “engaging” content, it can reduce exposure to more complex and independent content forms like proper journalism. 
 
 ### **So What Can We Do?**
 
